@@ -1,26 +1,100 @@
-# Bike-Sales-Dashboard-Excel-Data-Analysis-Project
-Created an interactive Excel dashboard that visualizes buying behavior across demographics, income brackets, and commute patterns. The project demonstrates end-to-end Excel data analysis—from cleaning and transformation to visualization and insight generation.
+# 🚲 Bike Sales Dashboard – Guided Excel Learning Project
 
-**Steps Taken:**
+## 📌 Project Overview
 
-Data Cleaning: Applied filters to identify blank rows, removed duplicates, standardized categorical columns, and ensured data consistency.
+This project was completed as a guided learning exercise while developing my Excel and Data Analytics skills.
 
-Data Preparation: Grouped the Age column into brackets for better filtering and analysis, removed currency symbols from Income for accurate calculations, and used conditional formatting on Age and Children for easy visualization.
+Following an Excel dashboard tutorial, I recreated the project from scratch to gain hands-on experience in data cleaning, transformation, analysis, and dashboard development. The objective was to understand the complete workflow of turning raw data into an interactive business dashboard.
 
-Data Modeling: Created multiple Pivot Tables and Charts summarizing sales by region, income, gender, and commute distance.
+The dashboard analyses customer demographics, income levels, commute distances, and purchasing behaviour to identify factors influencing bike purchases.
 
-Dashboard Creation: Combined all visuals in a dedicated Dashboard sheet, added slicers for interactive filtering (Region, Occupation, Age Bracket, etc.), and connected all charts using Report Connections for seamless interactivity.
+---
 
-**--Key Insights:**
+## 🎯 Learning Objectives
 
-Regional Trends: North America leads bike purchases (50.8%), followed by Europe (30%) and the Pacific (19.2%).
+Through this project, I practiced:
 
-Demographics: Adults (31–55 years) form 72% of all buyers, highlighting this age group as the core customer base.
+* Data Cleaning and Preparation
+* Excel Formulas and Functions
+* Pivot Tables
+* Pivot Charts
+* Interactive Dashboards
+* Slicers and Filters
+* Business Insight Generation
+* Data Visualization
 
-Income Patterns: Most purchases occur among customers earning 40K–70K, indicating mid-income consumers drive demand.
+---
 
-Commute Behavior: 37% of buyers commute within 1 mile—suggesting bikes are mainly used for short-distance travel or recreation.
+## 🛠️ Project Workflow
 
-Education & Occupation: Individuals with Bachelor’s or Partial College education dominate sales, especially professionals and skilled workers.
+### Data Cleaning
 
-Gender Balance: Purchases are nearly even between males (51%) and females (49%), with males showing slightly higher buying tendencies at higher income levels.
+* Removed duplicate records.
+* Standardized categorical values for consistency.
+* Reviewed data quality and prepared the dataset for analysis.
+
+### Data Transformation
+
+* Created Age Brackets using Excel formulas to simplify demographic analysis.
+* Formatted income and demographic fields for reporting purposes.
+* Organized data to support dashboard visualizations.
+
+### Data Analysis
+
+* Built Pivot Tables to analyse customer demographics and purchasing behaviour.
+* Explored relationships between income, age groups, commute distance, and bike purchases.
+
+### Dashboard Development
+
+* Created multiple Pivot Charts to visualize key metrics.
+* Added interactive slicers for filtering data.
+* Connected dashboard elements using Report Connections.
+* Designed a single-page interactive dashboard for business reporting.
+
+---
+
+## 📊 Dashboard Features
+
+* Average Income Analysis
+* Customer Age Group Analysis
+* Commute Distance Analysis
+* Interactive Filtering by:
+
+  * Region
+  * Education
+  * Marital Status
+  * Other Customer Demographics
+
+---
+
+## 💡 Key Learnings
+
+This project helped me understand:
+
+* How to clean and prepare raw datasets in Excel.
+* How Pivot Tables can be used to quickly analyse large datasets.
+* How to build interactive dashboards using Pivot Charts and Slicers.
+* How business insights can be derived from customer demographic data.
+* The end-to-end workflow of an Excel reporting project.
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="1327" height="630" alt="image" src="https://github.com/user-attachments/assets/6416d3e8-bbd5-45c0-8528-e761d5db73d4" />
+
+
+---
+
+## 📚 Project Note
+
+This is a guided learning project completed as part of my Data Analytics learning journey. The dashboard was recreated by following an Excel tutorial and is included in my portfolio to demonstrate practical Excel, data analysis, and dashboarding skills.
+
+---
+
+## 👨‍💻 Author
+
+Robin Sinha
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Python
+
