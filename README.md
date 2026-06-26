@@ -4,9 +4,9 @@
 
 This project was completed as a guided learning exercise while developing my Excel and Data Analytics skills.
 
-Following an Excel dashboard tutorial, I recreated the project from scratch to gain hands-on experience in data cleaning, transformation, analysis, and dashboard development. The objective was to understand the complete workflow of turning raw data into an interactive business dashboard.
+Following an Excel dashboard tutorial, I recreated the project from scratch to gain hands-on experience in data cleaning, transformation, analysis and dashboard development. The objective was to understand the complete workflow of turning raw data into an interactive business dashboard.
 
-The dashboard analyses customer demographics, income levels, commute distances, and purchasing behaviour to identify factors influencing bike purchases.
+The dashboard analyses customer demographics, income levels, commute distances and purchasing behaviour to identify factors influencing bike purchases.
 
 ---
 
@@ -88,7 +88,7 @@ This project helped me understand:
 
 ## 📚 Project Note
 
-This is a guided learning project completed as part of my Data Analytics learning journey. The dashboard was recreated by following an Excel tutorial and is included in my portfolio to demonstrate practical Excel, data analysis, and dashboarding skills.
+This is a guided learning project completed as part of my Data Analytics learning journey. The dashboard was recreated by following an Excel tutorial and is included in my portfolio to demonstrate practical Excel, data analysis and dashboarding skills.
 
 ---
 
